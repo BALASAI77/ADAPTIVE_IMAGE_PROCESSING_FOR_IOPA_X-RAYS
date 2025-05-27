@@ -142,7 +142,7 @@ Below is a sample comparison plot (`output/comparison_IS20250115_191316_7227_101
 - Upload the image to your GitHub repository (e.g., `output/comparison_IS20250115_191316_7227_10120577.png`) or a hosting service like Google Drive.
 - Replace the placeholder URL below with the actual image URL.
 
-![Sample Comparison Plot](https://via.placeholder.com/800x600.png?text=Comparison+Plot+-+Original,+Static,+Adaptive+Images+and+Histograms)
+![Sample Comparison Plot](https://drive.google.com/file/d/1mHCRgeV70gAxY36Fh84nF5PWOs8fNOld/view?usp=sharing)
 *Caption*: The top row displays the original, static, and adaptive images, with the adaptive image showing enhanced contrast and sharper dental features, such as tooth boundaries and cavities. The bottom row presents pixel intensity histograms: the adaptive histogram (red) demonstrates a balanced intensity spread compared to the original (gray) and static (blue), improving visibility of dental structures without over-flattening.
 
 #### Interactive Quality Metrics Distribution
