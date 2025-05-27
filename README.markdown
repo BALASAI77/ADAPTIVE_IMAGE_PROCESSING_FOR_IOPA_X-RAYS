@@ -11,7 +11,7 @@ This project develops an adaptive preprocessing pipeline for Intraoral Periapica
 - **Visualization**: Generates comparison plots (`output/comparison_<image_id>.png`) showing original, static, and adaptive images alongside pixel intensity histograms, plus interactive plots for deeper analysis.
 
 ### Final Results (as of May 27, 2025)
-- **Images Processed**: 14 IOPA X-rays
+- **Images Processed**: 13 IOPA X-rays
 - **Adaptive SSIM**: 0.982 (Static: 0.727, Target: ~0.95)
 - **Adaptive Edge Preservation**: 0.9663 (Static: 0.9075, Target: ~0.965)
 
@@ -146,7 +146,7 @@ Below is a sample comparison plot (`output/comparison_IS20250115_191316_7227_101
 *Caption*: The top row displays the original, static, and adaptive images, with the adaptive image showing enhanced contrast and sharper dental features, such as tooth boundaries and cavities. The bottom row presents pixel intensity histograms: the adaptive histogram (red) demonstrates a balanced intensity spread compared to the original (gray) and static (blue), improving visibility of dental structures without over-flattening.
 
 #### Interactive Quality Metrics Distribution
-The `output/metrics.html` file contains an interactive Plotly visualization of quality metrics (brightness, contrast, sharpness, noise) across all 14 images. Below is a text-based representation of what this plot looks like:
+The `output/metrics.html` file contains an interactive Plotly visualization of quality metrics (brightness, contrast, sharpness, noise) across all 13 images. Below is a text-based representation of what this plot looks like:
 
 ```
 Quality Metrics Distribution
